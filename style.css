@@ -1,0 +1,46 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+#inizio{
+	font-size: 2em;
+	padding: 2%;
+	background-color: black;
+	color: white;
+}
+
+.sezione {
+	display: inline-block;
+	width: 30%;
+	margin-left: 2%;
+	margin-top: 2%;
+	text-align: center;
+	font-size: large;
+}
+
+.sezione img {
+	width: 100%;
+}
+
+.sezione img:hover {
+	filter: blur(2px);
+}
+
+#fine{
+	margin-top: 2%;
+	font-size: large;
+	padding: 2%;
+	background-color: black;
+	color: white;
+}
+
+#fine ul {
+	padding-top: 1%;
+	padding-left: 2%;
+}
+
+#fine li {
+	display: inline-block;
+	padding-left: 3%;
+}
